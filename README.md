@@ -51,5 +51,3 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:gabrielscheidt2000@gmail.com)](mailto:gabrielscheidt2000@gmail.com)
 
 ---
-
-> _"Tecnologia com propósito é aquela que transforma ideias em impacto."_  
